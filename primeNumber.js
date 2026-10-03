@@ -14,4 +14,4 @@ else{
 }
 return result
 }
-console.log(primeNumber(15))
+console.log(primeNumber(22))
